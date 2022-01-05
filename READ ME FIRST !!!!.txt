@@ -1,0 +1,24 @@
+
+
+                   ADMIN username = admin
+                         password = Mwavi
+
+Student user
+Examinaton Number:1795080003
+Class: Eight 
+
+1.DON'T FORGET TO CREATE A DATABASE  AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+2. Make sure you have a local server installed on your computer(Xampp/Wamp)
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME 0977308406 *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
+
+
+***** FOR MORE PROJECTS :- https://github.com/micfromafrica/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING
